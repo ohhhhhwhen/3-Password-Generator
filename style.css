@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+body{    
+    background-color: rgb(224, 224, 224);
+}
+
+h2{
+    margin-top: 55px;
+}
+.content{
+    background-color: white;
+}
+
+.form-control{
+    border-style: dashed;
+}
+
+#password{
+    height: 150px;
+    width: 930px;
+    text-align: center;
+    background-color: white;
+}
+
+.number{
+    margin-left: 20px;
+}
+
+.btn{
+    border-radius: 40px;
+    background-color: crimson;
+    color: white;
+}
+
+#btn2{
+    border-radius: 40px;
+    background-color: gray;
+    color: white;
+}
