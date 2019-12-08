@@ -256,13 +256,13 @@ function generate() {
     }
 
     console.log(password.join(''));
-    input = document.getElementById("password");
+    input = document.getElementById("exampleFormControlTextarea1");
     input.value = password.join('');
     console.log(input.value);
 }
 
 function copy() {
-    var copyPassword = document.getElementById("password");
+    var copyPassword = document.getElementById("exampleFormControlTextarea1");
     copyToClipboard(copyPassword.value);
     alert("Copied new password: " + copyPassword.value);
 }

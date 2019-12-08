@@ -18,9 +18,8 @@ h2{
     border-style: dashed;
 }
 
-#password{
+#exampleFormControlTextarea1{
     height: 150px;
-    width: 930px;
     text-align: center;
     background-color: white;
 }
@@ -39,4 +38,8 @@ h2{
     border-radius: 40px;
     background-color: gray;
     color: white;
+}
+
+#btn2:hover{
+color: black;
 }

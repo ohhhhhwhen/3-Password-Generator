@@ -49,4 +49,6 @@ $ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 ```
-* 2 Main functions within the 2 buttons. Which is the brains of the assignment.
+* 2 Main functions within the 2 buttons. Which is the brains of the assignment
+
+* Link Javascript file in the body of the html file
