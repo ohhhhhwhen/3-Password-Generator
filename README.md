@@ -26,9 +26,9 @@ Project is created with:
 * Google
 	
 ## Files
-* This is a screen shot of the running page:
+* This is a screen shot of the running page from an images folder:
 
- ![Password Generator Picture] (images/Screen-Shot.png)
+ ![Password Generator Picture](images/Screen-Shot.png)
 
 Main files for this assignment include:
 
