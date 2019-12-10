@@ -28,11 +28,7 @@ Project is created with:
 ## Files
 * This is a screen shot of the running page:
 
-<<<<<<< HEAD
  ![Password Generator Picture] (images/Screen-Shot.png)
-=======
- ![3-Password-Generator] (images/Screen-Shot.png)
->>>>>>> fcd5020420433a8096624161d3a3b93b00ddab47
 
 Main files for this assignment include:
 
