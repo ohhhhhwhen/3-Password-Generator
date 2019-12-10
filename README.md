@@ -26,6 +26,10 @@ Project is created with:
 * Google
 	
 ## Files
+* This is a screen shot of the running page:
+
+ ![3-Password-Generator] (Screen-shot.png)
+
 Main files for this assignment include:
 
 * Assignment contains:
