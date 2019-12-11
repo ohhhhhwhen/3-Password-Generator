@@ -34,7 +34,7 @@ Main files for this assignment include:
 
 * 1 html file:
 
- ![3-Password-Generator](password.html) 
+ ![3-Password-Generator](index.html) 
 
 * 1 CSS file:
 
