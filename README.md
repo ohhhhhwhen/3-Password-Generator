@@ -25,24 +25,11 @@ Project is created with:
 * Visual Studios Code (HTML/CSS/JS)
 * Google
 	
-## Files
+## Files / Running Page
 * This is a screen shot of the running page from an images folder:
 
  ![Password Generator Picture](images/Screen-Shot.png)
 
-Main files for this assignment include:
-
-* 1 html file:
-
- ![3-Password-Generator](index.html) 
-
-* 1 CSS file:
-
- ![3-Password-Generator](style.css)
-
-* 1 Javascript file:
-
-![3-Password-Generator](script.js)
 
 ## Key Notes
 * Make sure to include the bootstrap link:
