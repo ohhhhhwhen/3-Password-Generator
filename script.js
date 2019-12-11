@@ -1,10 +1,8 @@
-
 var validc1 = false;
 var good = false;
 var password = [];
 var type;
 var entry;
-var passGen;
 var input;
 var combo1 = ['sc', 'nc', 'lc', 'uc',];
 var combo2 = ['nc', 'lc', 'uc',];
