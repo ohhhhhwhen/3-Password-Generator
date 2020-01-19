@@ -5,6 +5,10 @@
 * [Technologies](#technologies)
 * [Files](#files)
 * [Key Notes](#key-notes)
+*[Diployed Repo](#diployed-repo)
+
+##Diployed Repo
+https://ohhhhhwhen.github.io/3-Password-Generator/
 
 ## Assignment info
 In this assignment, I myself got familiar with creating a javascript file. 
