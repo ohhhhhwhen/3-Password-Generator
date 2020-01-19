@@ -7,7 +7,7 @@
 * [Key Notes](#key-notes)
 * [Diployed Repo](#diployed-repo)
 
-##Diployed Repo
+## Diployed Repo
 https://ohhhhhwhen.github.io/3-Password-Generator/
 
 ## Assignment info
