@@ -1,11 +1,11 @@
 # 3-Password-Generator
 
 ## Table of contents
+* [Diployed Repo](#diployed-repo)
 * [Assignment Info](#assignment-info)
 * [Technologies](#technologies)
 * [Files](#files)
 * [Key Notes](#key-notes)
-* [Diployed Repo](#diployed-repo)
 
 ## Diployed Repo
 https://ohhhhhwhen.github.io/3-Password-Generator/
